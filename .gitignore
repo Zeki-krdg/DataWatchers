@@ -1,0 +1,23 @@
+# Derlenmiş dosyalar
+*.class
+*.jar
+*.war
+
+# IDE dosyaları
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Build çıktısı
+out/
+bin/
+build/
+target/

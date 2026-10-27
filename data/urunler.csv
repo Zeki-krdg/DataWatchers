@@ -1,0 +1,6 @@
+id,ad,kategori,fiyat,adet,kritikSeviye,depoId
+101,Laptop,Elektronik,25000.0,15,5,1
+102,Kablosuz Mouse,Elektronik,450.0,3,10,1
+103,Mekanik Klavye,Elektronik,1200.0,20,5,2
+104,Calisma Masasi,Mobilya,3500.0,8,2,2
+105,Ofis Sandalyesi,Mobilya,2100.0,1,4,3
